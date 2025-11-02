@@ -51,9 +51,9 @@
 #         print(self.var)
 #         super().__init__()
 #         print(self.var)
-#         print(super().var)
+#         print(super().var)adsasdadasdasdsd
 #
-#
+#asdjasdgjmsbdjmasdjb
 # hello_world=Class2()
 
 
